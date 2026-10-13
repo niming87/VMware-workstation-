@@ -1,2 +1,2 @@
-# VMware-workstation-17系列中文版本
+# VMware-workstation安装包
 这里是从博通官网下载下来的，请放心下载安装。
